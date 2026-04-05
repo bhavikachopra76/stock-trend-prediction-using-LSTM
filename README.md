@@ -1,4 +1,4 @@
-<h1 align="center">📈 𝚂𝚝𝚘𝚌𝚔 𝚃𝚛𝚎𝚗𝚍 𝙿𝚛𝚎𝚍𝚒𝚌𝚝𝚒𝚘𝚗 𝚞𝚜𝚒𝚗𝚐 𝙻𝚂𝚃𝙼 🤖</h1>
+<h2 align="center">📈 𝚂𝚝𝚘𝚌𝚔 𝚃𝚛𝚎𝚗𝚍 𝙿𝚛𝚎𝚍𝚒𝚌𝚝𝚒𝚘𝚗 𝚞𝚜𝚒𝚗𝚐 𝙻𝚂𝚃𝙼 🤖</h2>
 
 <p align="center">
   𝙰𝚗 𝚎𝚗𝚍-𝚝𝚘-𝚎𝚗𝚍 𝚍𝚎𝚎𝚙 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚏𝚘𝚛 𝚙𝚛𝚎𝚍𝚒𝚌𝚝𝚒𝚗𝚐 𝚜𝚝𝚘𝚌𝚔 𝚝𝚛𝚎𝚗𝚍𝚜  
@@ -65,3 +65,12 @@ pip install -r requirements.txt
 
 # Run the full pipeline
 python src/main.py
+```
+
+<p align="center">
+  𝙼𝚊𝚍𝚎 𝚠𝚒𝚝𝚑 ❤️ 𝚊𝚗𝚍 𝚕𝚘𝚝𝚜 𝚘𝚏 ☕
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⭐-Star this repo if you find it helpful-yellow" />
+</p>
